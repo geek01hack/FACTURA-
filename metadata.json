@@ -1,0 +1,6 @@
+{
+  "name": "Factura — SaaS de Facturation et Relances WhatsApp pour PME",
+  "description": "Le logiciel de facturation et de relance automatique des paiements par WhatsApp et Mobile Money pour les indépendants et PME d'Afrique francophone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
